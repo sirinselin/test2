@@ -1,1 +1,1 @@
-Select * From Customers
+Select * From Customers;
